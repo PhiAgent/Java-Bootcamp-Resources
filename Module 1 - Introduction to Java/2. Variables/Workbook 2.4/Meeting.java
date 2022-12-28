@@ -13,6 +13,5 @@ public class Meeting {
         System.out.println("The refunds are at a low $"+(int)refunds+". This is a good sign!");
         System.out.println("Shipping costs were high. We paid $"+(int)shipping+" in shipping");
 
-
     }
 }
